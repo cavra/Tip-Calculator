@@ -29,8 +29,12 @@ The following **additional** features are implemented:
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
+1st image: Shows general functionality and that defaults are saved, even after an app "restart."
+2nd image: Shows that by changing the region, the app will change the currency sign to reflect the new region.
 
-<img src='https://i.imgur.com/3MP7Rtn.gif title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/eX46Xoq.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='https://i.imgur.com/Jyac716.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
