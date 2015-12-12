@@ -28,9 +28,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough 
 
-Here's a walkthrough of implemented user stories:
-1st image: Shows general functionality and that defaults are saved, even after an app "restart."
-2nd image: Shows that by changing the region, the app will change the currency sign to reflect the new region.
+Here's a walkthrough of implemented user stories: The 1st image shows general functionality, such as how the keyboard opens on startup and displays a bill for up to 5 people. It also shows how to change the default tip percentage and theme color, and that defaults are saved, even after an app "restart." It will even remember the text in the bill amount field, allowing users to return to the app after closing it and not have to re-type the bill. The 2nd image shows that by changing the region, the app will change the currency sign to reflect the new region. 
 
 <img src='https://i.imgur.com/eX46Xoq.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
@@ -43,8 +41,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 This being my first iOS app, I encoutered a few challenges. After I had familiarized myself with Xcode and finished the base version from the video tutorial, I began working on the Settings page. Designing that was fairly easy, as it was just a replication of the process for the original calculator page. However, when I began to tie in all the screen elements to their dynamic function counterparts, I received an error. Earlier, I had moved a couple of documents around and thought I had fixed their paths in the project, but apparently not. This took me a little longer than Id like to admit to figure out, but after this was settled, the rest was smooth sailing.
 
 First update, implemented a few new features (See features documented above). Most of the time spent implementing these was debugging with a lot of trial and error. As Im still fairly new to Swift, I learned a lot about the synatax and nature of the language. I might update again in the next few days with some animation effects, but for now I think this might be all. 
-
-I plan to update this within the next couple of days, as soon as I can scavenge some free time
 
 ## License
 
