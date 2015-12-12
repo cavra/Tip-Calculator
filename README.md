@@ -4,7 +4,11 @@
 
 Submitted by: **Cory Avra**
 
+<<<<<<< HEAD
 Time spent: **12** hours spent in total
+=======
+Time spent: **7** hours spent in total
+>>>>>>> origin/master
 
 ## User Stories
 
@@ -15,15 +19,25 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 * [ ] UI animations
+<<<<<<< HEAD
 * [x] Remembering the bill amount across app restarts (if <10mins)
 * [x] Using locale-specific currency and currency thousands separators.
 * [x] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+=======
+* [ ] Remembering the bill amount across app restarts (if <10mins)
+* [ ] Using locale-specific currency and currency thousands separators.
+* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+>>>>>>> origin/master
 
 The following **additional** features are implemented:
 
 - [x] Implemented a clean UI for simple functionality
+<<<<<<< HEAD
 - [x] User can change color theme to themes such as Day, Night, or Red/Green/Blue/Yellow
 - [x] Total now accounts for 1-5 people
+=======
+- [x] Remembers the default tip value across app restarts
+>>>>>>> origin/master
 
 ## Video Walkthrough 
 
@@ -37,7 +51,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 This being my first iOS app, I encoutered a few challenges. After I had familiarized myself with Xcode and finished the base version from the video tutorial, I began working on the Settings page. Designing that was fairly easy, as it was just a replication of the process for the original calculator page. However, when I began to tie in all the screen elements to their dynamic function counterparts, I received an error. Earlier, I had moved a couple of documents around and thought I had fixed their paths in the project, but apparently not. This took me a little longer than I'd like to admit to figure out, but after this was settled, the rest was smooth sailing.
 
+<<<<<<< HEAD
 First update, implemented a few new features (See features documented above). Most of the time spent implementing these was debugging with a lot of trial and error. As I'm still fairly new to Swift, I learned a lot about the synatax and nature of the language. I might update again in the next few days with some animation effects, but for now I think this might be all. 
+=======
+I plan to update this within the next couple of days, as soon as I can scavenge some free time
+>>>>>>> origin/master
 
 ## License
 
