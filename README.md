@@ -40,7 +40,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 This being my first iOS app, I encoutered a few challenges. After I had familiarized myself with Xcode and finished the base version from the video tutorial, I began working on the Settings page. Designing that was fairly easy, as it was just a replication of the process for the original calculator page. However, when I began to tie in all the screen elements to their dynamic function counterparts, I received an error. Earlier, I had moved a couple of documents around and thought I had fixed their paths in the project, but apparently not. This took me a little longer than Id like to admit to figure out, but after this was settled, the rest was smooth sailing.
 
-First update, implemented a few new features (See features documented above). Most of the time spent implementing these was debugging with a lot of trial and error. As Im still fairly new to Swift, I learned a lot about the synatax and nature of the language. I might update again in the next few days with some animation effects, but for now I think this might be all. 
+First update, I've implemented a few new features (See features documented above). Most of the time spent implementing these was debugging with a lot of trial and error. As Im still fairly new to Swift, I learned a lot about the synatax and nature of the language. I might update again in the next few days with some animation effects, but for now I think this might be all. 
 
 ## License
 
